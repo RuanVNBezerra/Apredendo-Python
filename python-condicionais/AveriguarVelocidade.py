@@ -7,4 +7,3 @@ if velocidade > 80:
     print(f'Você sera multado em {multa} R$')
 else:
     print('Tenha um bom dia e derija com segurança!')
-    
